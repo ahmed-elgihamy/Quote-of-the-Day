@@ -15,7 +15,7 @@ p {
 button {
     width: 250px;
     height: 80px;
-    background-color: blue;
+    background-color: rgb(40, 53, 87);
     color: white;
     border-radius: 5px;
     cursor: pointer;
